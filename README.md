@@ -8,8 +8,9 @@ Application de Machine Learning permettant de prédire la probabilité d’avoir
 
 ##  Structure du Projet
 PCOS_Predictor/
-├── notebooks/              # Notebooks Jupyter
-├── app.py                  # Application Streamlit
+
+├── notebooks/    
+├── app.py                
 ├── requirements.txt
 ├── data/
 ├── model/
