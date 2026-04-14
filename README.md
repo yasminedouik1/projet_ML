@@ -1,5 +1,5 @@
 # PCOS Predictor - Détection du Syndrome des Ovaires Polykystiques
-
+Lien de l’application déployée : : https://projetml-pcos-predictor.streamlit.app/
 ##  Description du Projet
 Application de Machine Learning permettant de prédire la probabilité d’avoir le Syndrome des Ovaires Polykystiques (PCOS) à partir de données cliniques et hormonales.
 
@@ -8,8 +8,9 @@ Application de Machine Learning permettant de prédire la probabilité d’avoir
 
 ##  Structure du Projet
 PCOS_Predictor/
-├── notebooks/              # Notebooks Jupyter
-├── app.py                  # Application Streamlit
+
+├── notebooks/    
+├── app.py                
 ├── requirements.txt
 ├── data/
 ├── model/
